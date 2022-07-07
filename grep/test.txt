@@ -1,0 +1,23 @@
+Do not ignore case distinctions  in  patterns  and  input  data. hello hello hello
+This is the default. This option is useful optioz for passing to shell
+scripts that already use -i, to cancel its effects  because
+the two options override each other.
+hello option lay
+say option to me
+like option the for me
+hello option lay
+say option to me
+like the option for me
+hello option lay
+say option to me
+like option for me
+hello option lay the
+say option to me
+like option for me
+hello the option lay
+say option to me
+like option for me
+hello option lay
+the
+say option to me
+like option for me hello hello
